@@ -1,19 +1,21 @@
+You may have issues if you don't use the following versions:
+
+node version: v6.9.1
+npm: 5.0.3
+
 ```
-23695  cd ~/clients/kryptos/dev/firebase/sample/functions
-23696  ebin install-nvm-npm-node
-23697  npm install -g grunt-cli
-23698  install-nvm-npm-node
-23699  . restart-shell
-23700  install-nvm-npm-node
-23701  npm install -g grunt-cli
-23702  npm install -g bower gulp
-23703  install-node-inspector
-23704  npm install -g firebase-tools
-23705  last-x-bin-cmds
-23706  pbin gce-install-firebase
-23707  firebase --version
-23708  firebase login
-23709  firebase use --add sample-82961
-23710  firebase deploy --only functions
-23711  firebase deploy --only functions
+install-nvm-npm-node
+. restart-shell
+install-nvm-npm-node
+npm install -g grunt-cli
+npm install -g bower gulp
+install-node-inspector
+npm install -g firebase-tools
+firebase --version
+firebase login
+firebase use --add gce-storage-thumbnail-82961
+firebase deploy --only functions
+firebase deploy --only functions
 ```
+
+For video see https://www.youtube.com/watch?v=pDLpEn3PbmE
