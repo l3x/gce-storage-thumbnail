@@ -18,4 +18,7 @@ firebase deploy --only functions
 firebase deploy --only functions
 ```
 
+<img align="right" src="https://github.com/l3x/gce-storage-thumbnail/blob/master/firebase-storage.png">
+
 For video see https://www.youtube.com/watch?v=pDLpEn3PbmE
+
